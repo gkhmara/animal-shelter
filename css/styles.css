@@ -1,0 +1,16 @@
+.column {
+  width: 300px;
+  float: left;
+  
+}
+
+p {
+  font-style: italic;
+  color: gray; 
+}
+
+.centered-image {
+  margin: auto;
+  width: 200px;
+  height: 200px;
+}
